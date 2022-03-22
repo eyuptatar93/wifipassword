@@ -21,4 +21,4 @@ with open('wifisifre.txt', 'w') as f:
     f.write(txt)
 
 time.sleep(5)
-os.startfile("wifisifre.txt")
+os.startfile("wifi.txt")
